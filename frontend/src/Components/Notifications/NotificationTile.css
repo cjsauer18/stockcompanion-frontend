@@ -1,9 +1,0 @@
-.notification-tile {
-  --bs-card-bg: blue;
-  background-color: blue;
-  color: blue;
-}
-
-.notification-tile-inactive {
-  background-color: red;
-}
